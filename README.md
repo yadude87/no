@@ -1,0 +1,3 @@
+# no
+
+Cloudstream repository test.

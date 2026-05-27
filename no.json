@@ -1,0 +1,8 @@
+{
+  "name": "no",
+  "description": "Yadude87 Cloudstream Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/yadude87/no/builds/plugins.json"
+  ]
+}

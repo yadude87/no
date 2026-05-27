@@ -9,7 +9,7 @@ version = 1
 cloudstream {
     // All of these properties are optional, you can safely remove any of them.
 
-    description = "Legal test plugin for yadude87/no"
+    description = "NSFW test plugin for yadude87/no"
     authors = listOf("yadude87")
 
     /**
